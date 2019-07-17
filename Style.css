@@ -1,0 +1,71 @@
+
+.TopNav{
+  width: 141px;
+  height: 40px;
+  font-family: LibreFranklin;
+  font-size: 25px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #003a83;
+
+  
+}
+
+h1 {
+  width: 527px;
+  height: 120px;
+  font-family: DancingScript;
+  font-size: 75px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #003a83;
+  /* why is this stacked 
+  also how do i get this to the left side of the page*/
+
+}
+
+p {  width: 939px;
+  height: 324px;
+  font-family: LibreFranklin;
+  font-size: 30px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: left;
+  color: #003a83;}
+
+  h2{
+    width: 265px;
+    height: 54px;
+    font-family: LibreFranklin;
+    font-size: 45px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #003a83;
+  }
+
+  ol{   width: 254px;
+    height: 144px;
+    font-family: LibreFranklin;
+    font-size: 30px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #003a83;}
